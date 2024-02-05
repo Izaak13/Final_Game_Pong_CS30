@@ -4,6 +4,10 @@ CS30 Main Project
 
 
 # To Do List
-- [] Item one, to be done
+- [] Code gamespace
+- [] Code ball movement
+- [] Code walls and interaction with ball
+- [] Code paddles and interaction with 
+- [] Code AI paddle movement
 - [x] Another item, already done
 - [] <del> Another item, was deleted </del>
